@@ -56,7 +56,7 @@ import { CustomButton } from "pandaui-components";
 
 ## Authors
 
-* **Francesca Van** - *Initial work* - [PurpleBooth](https://github.com/mochiyuki)
+* **Francesca Van** - *Initial work* - [mochiyuki](https://github.com/mochiyuki)
 
 ## License
 
