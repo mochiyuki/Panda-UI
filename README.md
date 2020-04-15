@@ -28,13 +28,13 @@ npm start #or expo start
 Install pandaui-components in your react-native or expo folder project.
 
 ```
-npm install pandaui-components
+npm install @mochiyuki/panda-ui-components
 ```
 
 Import components.
 
 ```
-import { CustomButton } from "pandaui-components";
+import { CustomButton } from "@mochiyuki/panda-ui-components";
 ```
 
 ## Deployment
